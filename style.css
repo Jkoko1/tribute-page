@@ -1,0 +1,73 @@
+body{
+    background-color: gainsboro;
+}
+hr{
+    border: 1px solid gainsboro;
+}
+nav{
+    overflow: hidden;
+    display: block;
+    background-color: black;
+            }
+ul{
+    list-style-type: none;
+    margin: 10px 200px;
+            }
+li{
+    float: left;
+    color: white;
+    margin: 15px;
+    font-size: 10pt;
+}
+.menu{
+    display: block;
+}
+.main{
+    background-color: white;
+    display: block;
+    padding: 50px 90px;
+    margin: 10px 250px 30px 250px;
+    box-sizing: border-box;
+    box-shadow: 200pt;
+}
+.tribute{
+    display: block;
+    margin: 10px 50px;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 0px;
+}
+h3{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.top{
+    text-align: center;
+    font-size: 9.5pt;
+    padding: 2px 50px;
+    margin-bottom: 50px;
+}
+.bottom{
+    text-align: center;
+    font-size: 9.5pt;
+    padding: 2px 50px;
+}
+p{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding: 2px 50px
+}
+h4{
+    padding: 2px 50px;
+    margin-bottom: 2px;
+}
+.author{
+    color: gainsboro;
+    font-weight: 200;
+    padding-top: 1px;
+    padding-bottom: 30px;
+}
